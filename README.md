@@ -27,7 +27,7 @@ Puede ser usado para realizar:
 
 3. Inicia un repositorio de Git con el siguiente comando:
 ```GitHub
-git init
+git init s
 ```
 
 4. Revisa el código de la página ejemplo
